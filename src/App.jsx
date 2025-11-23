@@ -296,7 +296,7 @@ const App = () => {
               <p
                 className="overflow-hidden textmid text-4xl mt-20 font-[10px]">
                 <div>We provide you with captivating design, interactive</div>
-                <div>animations, reliable code, and immaculate project</div>
+                <div>animations, reliable code, and immaculate projects</div>
                 <div>coordination Whether you need a campaign built from</div>
                 <div>
                   scratch or assistance at a specific phase, we've got vou
