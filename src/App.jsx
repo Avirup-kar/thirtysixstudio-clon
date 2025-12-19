@@ -299,7 +299,7 @@ const App = () => {
                 <div>Animations, reliable code, and immaculate projects</div>
                 <div>Coordination Whether you need a campaign built from</div>
                 <div>
-                  scratch or assistance at a specific phase, we've got vou
+                  Scratch or assistance at a specific phase, we've got vou
                 </div>
                 <div>covered.</div>
               </p>
